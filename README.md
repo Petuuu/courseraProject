@@ -1,6 +1,7 @@
 A home page for a fictional client.
 
 Description of client from Coursera:
+
   Based in Tuscon, Arizona, Lucky Shrub is a medium-sized garden design firm that
   specializes in garden design and creation, maintenance and landscaping. The company
   also runs a small plant nursery that sells indoor and outdoor plants, making them a
