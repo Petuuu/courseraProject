@@ -1,0 +1,110 @@
+body {
+    background-color: rgb(255, 251, 244);
+    margin: 2rem 4%;
+    font-size: 1.1rem;
+}
+
+#mainLogo {
+    display: flex;
+    max-width: 10rem;
+    margin: auto;
+}
+
+nav {
+    background-color: rgba(16, 53, 32, 0.671);
+    border-radius: 2rem;
+    margin-top: 3rem;
+    padding: 0.2rem;
+    line-height: 3rem;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+}
+
+li a {
+    font-size: 1.5rem;
+    color: white;
+    text-decoration: none;
+    margin: 5rem;
+}
+
+li a:hover {
+    color: rgb(236, 236, 236);
+}
+
+li a:active {
+    color: rgb(197, 197, 197);
+}
+
+section {
+    display: flex;
+}
+
+article {
+    flex: 1;
+}
+
+#image {
+    display: flex;
+    margin: auto;
+    width: 100%;
+}
+
+.big{
+    background-image: url("pictures/plantsBG.jpg");
+    background-size: 120rem;
+    border-radius: 2rem;
+    margin: 3rem 0 1rem;
+    padding: 1rem 2.5rem 2rem;
+    color: white;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+.small{
+    background-color: rgba(0, 0, 0, 0.158);;
+    border-radius: 2rem;
+    margin: 1rem 0 3rem;
+    padding: 1rem 2.5rem 2rem;
+}
+
+.middle {
+    margin: 1rem 2rem 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+#opening {
+    line-height: 2rem;
+}
+
+footer {
+    display: flex;
+    background-color: rgb(105, 100, 91);
+    border-radius: 2rem;
+    padding: 2.5rem;
+}
+
+div {
+    flex: 1;
+    color: white;
+}
+
+#footerLogo {
+    display: flex;
+    max-width: 8rem;
+}
+
+#copyright {
+    text-align: right;
+}   
